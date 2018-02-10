@@ -92,7 +92,8 @@ console.log(oreoList);
 
 var drinkMenu = "rum, gin, vodka, kool-aid, haterade";
 
-
+var favDrink = drinkMenu.substr(5, 3);
+console.log(favDrink);
 
 
 
